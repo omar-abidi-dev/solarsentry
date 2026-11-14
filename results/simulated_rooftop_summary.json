@@ -1,0 +1,25 @@
+{
+ "review": 62,
+ "review_true": 5,
+ "modules": 1000,
+ "capacity_kwp": 550.0,
+ "true_anom": 60,
+ "flagged": 59,
+ "correctly_flagged": 50,
+ "false_alarms": 9,
+ "kwh": 8587.150000000001,
+ "idr": 12405855.605000002,
+ "by_class": {
+  "Cell": 11,
+  "Cell-Multi": 6,
+  "Cracking": 5,
+  "Hot-Spot": 2,
+  "Hot-Spot-Multi": 4,
+  "Shadowing": 7,
+  "Diode": 4,
+  "Diode-Multi": 0,
+  "Vegetation": 16,
+  "Soiling": 0,
+  "Offline-Module": 4
+ }
+}

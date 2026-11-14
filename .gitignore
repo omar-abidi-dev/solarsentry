@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+inspection_report.csv
+.DS_Store
+solarsentry_ms/split_test.npy
+solarsentry_ms/out/test_probs.npy
